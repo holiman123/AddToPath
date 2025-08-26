@@ -53,7 +53,5 @@ internal class Program
             Console.WriteLine("\nDid not added!");
         else
             Console.WriteLine("\nSuccess");
-
-        Console.ReadKey();
     }
 }
