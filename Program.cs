@@ -2,8 +2,6 @@
 
 internal class Program
 {
-    const int delay = 100;
-
     static void Main(string[] args)
     {
         if (args.Length == 1 && args[0] == "-r")
